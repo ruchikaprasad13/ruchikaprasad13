@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ruchikaprasad13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on computer vision
+- 📫 How to reach me : Send a Hi
+- 😄 Pronouns: Does it matter
 - ⚡ Fun fact: I am not a coder
 
 <!---
