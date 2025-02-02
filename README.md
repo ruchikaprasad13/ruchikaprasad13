@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ruchikaprasad13
+- 👋 Hi, I’m Ruchika Prasad
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on computer vision
+- 💞️ I’m looking to collaborate on deep learninng (DL) technologies
 - 📫 How to reach me : Send a Hi
 - 😄 Pronouns: Does it matter
 - ⚡ Fun fact: I am not a coder
