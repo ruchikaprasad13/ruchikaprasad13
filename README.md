@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on deep learninng (DL) technologies
 - 📫 How to reach me : Send a Hi
 - 😄 Pronouns: Does it matter
-- ⚡ Fun fact: I am not a coder
+- ⚡ Fun fact: I like adventure
 
 <!---
 ruchikaprasad13/ruchikaprasad13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
